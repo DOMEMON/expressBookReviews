@@ -127,4 +127,4 @@ async function getBookByTitleAsync(title) {
 // Tự động gọi chạy thử nghiệm khi file được load (tùy chọn)
 getAllBooksAsync();
 getBookByISBNPromise("1");
-module.exports.general = public_users;
+module.exports.general = public_users; 
